@@ -6,7 +6,7 @@ Na pasta Runners há os arquivos runners necessários para executar a automaçã
 
 Ao executar com sucesso é gerado duas evidências de testes, uma em HTML e outra em PDF. As evidências podem ser encontradas em test-output > evidencias.
 
-Caso não tenha dificuldades em executar a automação, entre em contato comigo pelos contatos abaixo que terei o maior prazer em ajudar.
+Caso tenha dificuldades em executar a automação, entre em contato comigo pelos contatos abaixo. Terei o maior prazer em ajudar!
 
 - Email -> carlosesmoreira07@gmail.com
 - WhatsApp -> (14) 99818-4411
