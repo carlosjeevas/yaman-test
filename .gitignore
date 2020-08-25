@@ -1,0 +1,9 @@
+**/target/
+**/test-output/evidencias/html/debug.log
+**/logs/
+**/.settings/
+**/.classpath
+**/.project
+*.project
+target
+debug.log
